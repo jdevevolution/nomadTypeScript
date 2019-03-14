@@ -1,0 +1,1 @@
+to study typescript for nomadcoder
